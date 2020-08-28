@@ -21,3 +21,6 @@ Just click the following Google Play link to get access to the Beta track:
 
 https://play.google.com/apps/testing/com.codepraxis.turbotubes
 
+How do provide feedback? 
+------------------------
+Email whirleygiggame@gmail.com with any bugs, issues, general feedback.  
