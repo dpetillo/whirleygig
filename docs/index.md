@@ -13,7 +13,7 @@ Whirley is starting with a both a open Beta and closed Alpha.  The closed Alpha 
 
 How do I join the Closed Alpha?
 -------------------------------
-There's plenty of room in the closed Alpha so simply email [whirleygiggame@gmail.com](whirleygiggame@gmail.com) (include the Google account you use to login to the Play store if its not your normal contact) and I'll get you onboard.  You'll be added to the tester's Google Group and receive a link to opt-in to 'Internal Testing'.  The closed Alpha is distributed with this 'Internal Test' feature on Google Play.
+There's plenty of room in the closed Alpha so simply email [whirleygiggame@gmail.com](mailto:whirleygiggame@gmail.com) (include the Google account you use to login to the Play store if its not your normal contact) and I'll get you onboard.  You'll be added to the tester's Google Group and receive a link to opt-in to 'Internal Testing'.  The closed Alpha is distributed with this 'Internal Test' feature on Google Play.
 
 How do I join the Open Beta?
 ----------------------------
@@ -24,4 +24,4 @@ Just click the following Google Play link to get access to the Beta track:
 
 How do provide feedback? 
 ------------------------
-Email [whirleygiggame@gmail.com](whirleygiggame@gmail.com) with any bugs, issues, general feedback.  
+Email [whirleygiggame@gmail.com](mailto:whirleygiggame@gmail.com) with any bugs, issues, general feedback.  
